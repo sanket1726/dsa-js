@@ -1,3 +1,13 @@
+## Important Code snippets with formulaes
+
+```javascript
+// Calculate the base-2 logarithm of 100
+let n = 100;
+let log2n = Math.log2(n);
+
+console.log("The value of log2(100) is: " + log2n);
+```
+
 ## Binary Search
 
 ### Complexity Analysis of Binary Search Algorithm:
